@@ -116,11 +116,12 @@ nav .fa-solid{
         position: absolute;
         background: #f44336;
         height: 100vh;
-        width: 100px;
+        width: 200px;
         top: 0;
-        right: 0;
+        right: -200px;  
         text-align: left;
         z-index: 2;
+        transition: 1s;
     }
     nav .fa-solid{
         display: block;
@@ -128,5 +129,9 @@ nav .fa-solid{
         margin: 10px;
         font-size: 22px;
         cursor: pointer;
+    }
+
+    .nav-links ul {
+        padding: 30px   ;
     }
 }

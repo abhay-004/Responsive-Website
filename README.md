@@ -5,7 +5,7 @@ This project demonstrates how to create a clean, modern, and mobile-friendly web
 
 ## 🌐 Live Demo
 
-👉 [View Live Demo](https://rock-paper-scissor-game-abhay-004.netlify.app/)  
+👉 [View Live Demo](https://responsive-website-004.netlify.app/src/)  
 
 ## 📸 Preview
 
